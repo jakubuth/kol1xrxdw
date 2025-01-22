@@ -3,19 +3,25 @@
 ## Ważne Uwagi
 
 1. **Praca musi być samodzielna!**  
-   Rozwiąż zadanie bez konsultacji z innymi. Rozmowy z kolegami, zadawanie pytań i odpowiadanie na pytania dotyczące tego zadania (zarówno w trakcie jego rozwiązywania, jak i po ukończeniu) będą uznane za brak samodzielności. Skutkuje to **brakiem możliwości otrzymania plusa za aktywność na ćwiczeniach**.
+   Rozwiąż zadania bez konsultacji z innymi. Rozmowy z kolegami, zadawanie pytań i odpowiadanie na pytania dotyczące tego zadania 
+(zarówno w trakcie jego rozwiązywania, jak i po ukończeniu) będą uznane za ściąganie. Skutkuje to **niezaliczeniem kolokwium bez sprawdzania jego wyników i niezaliczeniem przedmiotu**.
 
-2. **Pomaganie innym**, nawet po ukończeniu zadania, również spowoduje utratę uzyskanego wcześniej plusa.
+2. **Pomaganie innym**, nawet po ukończeniu pracy i wysłaniu na github, również spowoduje niezaliczenie kolokwium i przedmiotu.
 
-3. Zadanie należy rozwiązać w środowisku **IntelliJ IDEA**.
+3. Korzystanie z telefonu, internetu, przeglądarki, czatów, czata gpt, komunikatorów, maila itp jest zabronione. Próby spowodują niezaliczenie kolokwium i przedmiotu
 
-4. **Zrzut ekranu na dowód samodzielności:**
+4. Zadanie należy rozwiązać w środowisku **IntelliJ IDEA**.
+
+5. **Zrzut ekranu na dowód samodzielności:**
    - Otwórz dysk `z:` w swoim systemie.
    - Na zrzucie ekranu powinny być widoczne: 
      - wszystkie testy przechodzące (w zakładce testów IntelliJ IDEA, po rozwinięciu opcji `Show Passed`),  
      - Twój identyfikator użytkownika (login z systemu).  
 
-5. Po wykonaniu zrzutu ekranu, **wyślij swoje rozwiązanie na GitHub**.
+6. Po wykonaniu zrzutu ekranu, **wyślij swoje rozwiązanie na GitHub**.
+
+7. Nie wolno modyfikować testów. Dostarczone testy są testami przykładowymi, zadanie zostanie ocenione innym zestawem testów (bardzo podobnym, inne będą dane testowe).
+
 
 ---
 
