@@ -171,6 +171,8 @@ class JavaTasksTest {
             List<Person> originalList = new ArrayList<>(people);
             sorter.sortByName(people);
             assertEquals(originalList, people);  // Sprawdzenie, czy oryginalna lista pozostała niezmieniona
+
+            testSortByName();
         }
 
         // Testowanie, czy oryginalna lista nie została zmodyfikowana po sortowaniu po wieku
@@ -179,6 +181,8 @@ class JavaTasksTest {
             List<Person> originalList = new ArrayList<>(people);
             sorter.sortByAge(people);
             assertEquals(originalList, people);  // Sprawdzenie, czy oryginalna lista pozostała niezmieniona
+
+            testSortByAge();
         }
 
         // Testowanie, czy oryginalna lista nie została zmodyfikowana po sortowaniu po wynagrodzeniu
@@ -187,6 +191,8 @@ class JavaTasksTest {
             List<Person> originalList = new ArrayList<>(people);
             sorter.sortBySalary(people);
             assertEquals(originalList, people);  // Sprawdzenie, czy oryginalna lista pozostała niezmieniona
+
+            testSortBySalary();
         }
     }
 }
